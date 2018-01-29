@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ClickTile.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FrameManager.cs">
     <Files>
-      <File FileName="Assets\Scripts\ClickTile.cs" Line="8" Column="36" />
+      <File FileName="Assets\Scripts\ClickTile.cs" Line="54" Column="17" />
+      <File FileName="Assets\Scripts\FrameManager.cs" Line="22" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
