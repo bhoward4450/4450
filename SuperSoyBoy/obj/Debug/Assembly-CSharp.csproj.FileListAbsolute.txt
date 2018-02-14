@@ -132,3 +132,4 @@ C:\Users\Echostt\Documents\GitHub\4450\SuperSoyBoy\Temp\bin\Debug\UnityEditor.iO
 C:\Users\Echostt\Documents\GitHub\4450\SuperSoyBoy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Echostt\Documents\GitHub\4450\SuperSoyBoy\obj\Debug\Assembly-CSharp.dll
 C:\Users\Echostt\Documents\GitHub\4450\SuperSoyBoy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Echostt\Documents\GitHub\4450\SuperSoyBoy\Temp\bin\Debug\UnityEditor.Android.Extensions.dll

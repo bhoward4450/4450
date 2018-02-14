@@ -8,6 +8,8 @@ public class Goal : MonoBehaviour {
 
 	void OnCollisionEnter2D(Collision2D coll) { 
 		if (coll.gameObject.tag == "Player") { 
+			var timer = FindObjectOfType<Timer>();
+			GameManager.instance.SaveTime(timer.time);
 			var audioSource = GetComponent<AudioSource>();
 			if (audioSource != 
 				null && goalClip != 
